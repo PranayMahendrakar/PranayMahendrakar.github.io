@@ -1928,7 +1928,7 @@
                     
                     <!-- Profile Image -->
                     <div class="hero-image-container">
-                        <img src="boss.jpeg" alt="Pranay M. Mahendrakar" />
+                        <img src="https://sonytech.in/pranay/boss.jpeg" alt="Pranay M. Mahendrakar" />
                     </div>
                     
                     <!-- Floating Badges -->
