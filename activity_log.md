@@ -9,3 +9,4 @@
 - [2026-05-07T10:43:50Z] style: apply consistent code formatting
 - [2026-05-07T08:26:52Z] chore: update dependencies to latest versions
 - [2026-05-07T21:09:50Z] chore: update dependencies to latest versions
+- [2026-05-07T10:40:18Z] fix: resolve edge case in input validation
