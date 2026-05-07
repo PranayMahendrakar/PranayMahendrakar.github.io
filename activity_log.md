@@ -4,3 +4,4 @@
 - [2026-04-27T14:14:59Z] test: add unit tests for core module
 - [2026-04-27T22:42:56Z] docs: improve inline documentation
 - [2026-04-27T17:15:11Z] perf: optimize loop for better performance
+- [2026-05-07T12:12:43Z] feat: add helper utility function
